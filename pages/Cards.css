@@ -1,0 +1,19 @@
+.card1{
+    width: 300px;
+    margin-top: 150px; 
+ }
+  .image {
+    width: 350px;
+    height: 160px;
+    padding-right: 10px;
+    object-position: left top;
+    image-orientation: from-image;
+
+    
+  }
+.text {
+    text-align:center;
+    color: red;
+    padding-top: 5px;
+    /* padding-left: 40%; */
+}
